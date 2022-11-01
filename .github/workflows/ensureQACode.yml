@@ -2,7 +2,7 @@ name: Ensure Dev Code is QAred
 
 on: 
   push:
-  pull_requests:
+  pull_request:
     brances:
       - inlcudeCI
 
